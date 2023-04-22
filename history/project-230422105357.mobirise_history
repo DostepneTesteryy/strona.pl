@@ -63,8 +63,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "TESTERY",
-        "meta_descr": "DOSTEPNE TESTERY NA MIEJSCU",
+        "title": "Home",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
