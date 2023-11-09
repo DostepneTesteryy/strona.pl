@@ -3,40 +3,40 @@
    font-style: normal;
    font-display: swap;
    font-weight: 300;
-   src: url('file:///C:/Users/Marcin/Documents/Nowy%20folder/fonts/Bellota Text/300.ttf') format('truetype');
+   src: url('file:///C:/Users/Marcin/Documents/strona/fonts/Bellota Text/300.ttf') format('truetype');
 }
 @font-face {
    font-family: 'Bellota Text';
    font-style: normal;
    font-display: swap;
    font-weight: 700;
-   src: url('file:///C:/Users/Marcin/Documents/Nowy%20folder/fonts/Bellota Text/700.ttf') format('truetype');
+   src: url('file:///C:/Users/Marcin/Documents/strona/fonts/Bellota Text/700.ttf') format('truetype');
 }
 @font-face {
    font-family: 'Bellota Text';
    font-style: italic;
    font-display: swap;
    font-weight: 300;
-   src: url('file:///C:/Users/Marcin/Documents/Nowy%20folder/fonts/Bellota Text/300italic.ttf') format('truetype');
+   src: url('file:///C:/Users/Marcin/Documents/strona/fonts/Bellota Text/300italic.ttf') format('truetype');
 }
 @font-face {
    font-family: 'Bellota Text';
    font-style: regular;
    font-display: swap;
    font-weight: 400;
-   src: url('file:///C:/Users/Marcin/Documents/Nowy%20folder/fonts/Bellota Text/regular.ttf') format('truetype');
+   src: url('file:///C:/Users/Marcin/Documents/strona/fonts/Bellota Text/regular.ttf') format('truetype');
 }
 @font-face {
    font-family: 'Bellota Text';
    font-style: italic;
    font-display: swap;
    font-weight: 400;
-   src: url('file:///C:/Users/Marcin/Documents/Nowy%20folder/fonts/Bellota Text/italic.ttf') format('truetype');
+   src: url('file:///C:/Users/Marcin/Documents/strona/fonts/Bellota Text/italic.ttf') format('truetype');
 }
 @font-face {
    font-family: 'Bellota Text';
    font-style: italic;
    font-display: swap;
    font-weight: 700;
-   src: url('file:///C:/Users/Marcin/Documents/Nowy%20folder/fonts/Bellota Text/700italic.ttf') format('truetype');
+   src: url('file:///C:/Users/Marcin/Documents/strona/fonts/Bellota Text/700italic.ttf') format('truetype');
 }
